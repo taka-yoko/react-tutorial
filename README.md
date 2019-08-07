@@ -1,6 +1,6 @@
 # What's this ?
 
-React公式チュートリアルの実装
+React公式Tutorialの実装
 
 チュートリアル：React
 https://ja.reactjs.org/tutorial/tutorial.html
